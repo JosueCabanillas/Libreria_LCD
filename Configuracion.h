@@ -1,0 +1,1 @@
+#define FCY 20000000UL //PLL x8 FOSC = 20MHZ
